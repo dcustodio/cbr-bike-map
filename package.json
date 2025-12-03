@@ -1,0 +1,11 @@
+{
+  "name": "cbr-bike-map",
+  "version": "0.1.0",
+  "description": "Simple static map using Leaflet and markers loaded from markers.json",
+  "scripts": {
+    "start": "npx http-server -p 8080 -c-1",
+    "preview": "npx http-server -p 8000"
+  },
+  "author": "",
+  "license": "MIT"
+}
