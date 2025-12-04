@@ -4,5 +4,23 @@
     "lon": -8.4312,
     "name": "Ponte de Santa Clara",
     "description": "Não existe para acesso à ciclovia num dos lados."
+  },
+  {
+    "lat": 40.1833,
+    "lon": -8.4148,
+    "name": "Ciclovia Portela",
+    "description": "Vários pinos derrubados ao longo do percurso."
+  },
+  {
+    "lat": 40.1962,
+    "lon": -8.4027,
+    "name": "Vale das Flores #1",
+    "description": "Não existe um acesso marcado e delimitado para acesso á ciclovia partindo da estrada da beira. A passadeira não tem passagem para velocípedes M10"
+  },
+  {
+    "lat": 40.196,
+    "lon": -8.4062,
+    "name": "Vale das Flores #2",
+    "description": "A ciclovia decorre junto ao muro interceptando um acesso pedonal perpendicular sem qualquer visibilidade."
   }
 ]

@@ -11,6 +11,10 @@ jobs:
       contents: write
       pages: write
       id-token: write
+    # Deploy to the github-pages environment
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,8 +33,4 @@ jobs:
           if [ -f package.json ]; then npm run build --if-present; fi
 
       - name: Deploy to gh-pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: gh-pages
-          publish_dir: ./
+        uses: actions/deploy-pages@v4
