@@ -17,18 +17,7 @@
     "name": "Ciclovia Portela #2",
     "description": "A subida para ilha tem uma rampa com perfil muito acentuado. Também para os automobilistas que por ali acedem ao Polo 2 a visibilidade é reduzida e não há qualquer sinalização para informar da presença de velocípedes. "
   },
-  {
-    "lat": 40.1962,
-    "lon": -8.4027,
-    "name": "Vale das Flores #1",
-    "description": "Não existe um acesso marcado e delimitado para acesso á ciclovia partindo da estrada da beira. A passadeira não tem passagem para velocípedes M10"
-  },
-  {
-    "lat": 40.196,
-    "lon": -8.4062,
-    "name": "Vale das Flores #2",
-    "description": "A ciclovia decorre junto ao muro interceptando um acesso pedonal perpendicular sem qualquer visibilidade."
-  },
+
   {
     "lat": 40.2017,
     "lon": -8.4252,
@@ -36,8 +25,26 @@
     "description": "O piso de acesso à ponte é de pedra irregular, dificultando o acesso a carrinhos de bebé, cadeiras de rodas e velocipedes."
   },
   {
+    "lat": 40.2037,
+    "lon": -8.4263,
+    "name": "Rampa entre Parque Verde e Parque Manuel Braga",
+    "description": "Pavimento de pedra irregular, dificultando o acesso a carrinhos de bebé, cadeiras de rodas e velocipedes."
+  },
+  {
+    "lat": 40.2022,
+    "lon": -8.425,
+    "name": "Todo o eixo Parque Verde e Parque Manuel Braga",
+    "description": "Não tem percurso pavimentado (nem alternativa paralela) e os percursos em terra batida degradam-se muito facilmente."
+  },
+  {
+    "lat": 40.2053,
+    "lon": -8.4243,
+    "name": "⁠Caminho da Mata do Botânico",
+    "description": "via em pavimento empedrado (paralelos). Precisa de uma faixa de descanso em toda a sua extensão."
+  },
+  {
     "lat": 40.2224,
-    "lon": -8.441,
+    "lon": -8.4418,
     "name": "Choupal",
     "description": "O botão do semáforo está demasiado longe da travessia dificultando a sua utilização. "
   },
@@ -52,5 +59,42 @@
     "lon": -8.439,
     "name": "Ciclovia de Eiras",
     "description": "A ciclovia inicia/acaba abruptamente sem rampa de acesso à estrada. É-se obrigado a entrar na ciclovia pela passadeira rebaixada mais próxima."
+  },
+  {
+    "lat": 40.1962,
+    "lon": -8.4027,
+    "name": "Vale das Flores #1",
+    "description": "Não existe um acesso marcado e delimitado para acesso á ciclovia partindo da estrada da beira. A passadeira não tem passagem para velocípedes M10"
+  },
+  {
+    "lat": 40.196,
+    "lon": -8.4062,
+    "name": "Vale das Flores #2",
+    "description": "A ciclovia decorre junto ao muro interceptando um acesso pedonal perpendicular sem qualquer visibilidade."
+  },
+  {
+    "lat": 40.1947,
+    "lon": -8.412,
+    "name": "Vale das Flores #3",
+    "description": "pavimento muito danificado junto à Avenida Mendes Silva, já perto da Rua Dom Pedro de Cristo."
+  },
+
+  {
+    "lat": 40.1945,
+    "lon": -8.4136,
+    "name": "Vale das Flores #4",
+    "description": "Pavimento degradado"
+  },
+  {
+    "lat": 40.1935,
+    "lon": -8.4165,
+    "name": "Vale das Flores #5",
+    "description": "Houve um abatimento parcial do talude que originou frestas pronunciadas no pavimento. Os remendos que fizeram são insuficientes e há buracos bastante perigosos."
+  },
+  {
+    "lat": 40.2239,
+    "lon": -8.4411,
+    "name": "Estação de Coimbra-B",
+    "description": "Falta uma ligação entre a ciclovia do choupal, a estação de Coimbra-B e a ciclovia de Eiras de forma a \"coser\" a rede."
   }
 ]
