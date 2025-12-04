@@ -8,8 +8,14 @@
   {
     "lat": 40.1833,
     "lon": -8.4148,
-    "name": "Ciclovia Portela",
+    "name": "Ciclovia Portela #1",
     "description": "Vários pinos derrubados ao longo do percurso."
+  },
+  {
+    "lat": 40.1851,
+    "lon": -8.4181,
+    "name": "Ciclovia Portela #2",
+    "description": "A subida para ilha tem uma rampa com perfil muito acentuado. Também para os automobilistas que por ali acedem ao Polo 2 a visibilidade é reduzida e não há qualquer sinalização para informar da presença de velocípedes. "
   },
   {
     "lat": 40.1962,
@@ -22,5 +28,29 @@
     "lon": -8.4062,
     "name": "Vale das Flores #2",
     "description": "A ciclovia decorre junto ao muro interceptando um acesso pedonal perpendicular sem qualquer visibilidade."
+  },
+  {
+    "lat": 40.2017,
+    "lon": -8.4252,
+    "name": "Ponte Pedro e Inês",
+    "description": "O piso de acesso à ponte é de pedra irregular, dificultando o acesso a carrinhos de bebé, cadeiras de rodas e velocipedes."
+  },
+  {
+    "lat": 40.2224,
+    "lon": -8.441,
+    "name": "Choupal",
+    "description": "O botão do semáforo está demasiado longe da travessia dificultando a sua utilização. "
+  },
+  {
+    "lat": 40.1927,
+    "lon": -8.4138,
+    "name": "IPN",
+    "description": "A ciclovia termina abruptamente sem rampa de acesso à estrada. É-se obrigado a ir pelo passeio até à próxima passadeira rebaixada."
+  },
+  {
+    "lat": 40.2235,
+    "lon": -8.439,
+    "name": "Ciclovia de Eiras",
+    "description": "A ciclovia inicia/acaba abruptamente sem rampa de acesso à estrada. É-se obrigado a entrar na ciclovia pela passadeira rebaixada mais próxima."
   }
 ]
