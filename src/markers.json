@@ -17,6 +17,12 @@
     "name": "Ciclovia Portela #2",
     "description": "A subida para ilha tem uma rampa com perfil muito acentuado. Também para os automobilistas que por ali acedem ao Polo 2 a visibilidade é reduzida e não há qualquer sinalização para informar da presença de velocípedes. "
   },
+  {
+    "lat": 40.1854,
+    "lon": -8.4039,
+    "name": "Ciclovia Portela #3",
+    "description": "A ciclovia termina numa travessia de velocipedes M10 em que no passeio estão colocados pinos. Deveria have uma ilha que permitisse uma segura travessia da via e mais uma travessia de velocípedes M10 na Rua Princesa Cindazunda.W"
+  },
 
   {
     "lat": 40.2017,
@@ -96,5 +102,11 @@
     "lon": -8.4411,
     "name": "Estação de Coimbra-B",
     "description": "Falta uma ligação entre a ciclovia do choupal, a estação de Coimbra-B e a ciclovia de Eiras de forma a \"coser\" a rede."
+  },
+  {
+    "lat": 40.1924,
+    "lon": -8.4198,
+    "name": "Ponte Rainha Santa Isabel",
+    "description": "Foi aberto um rasgo no passeio, foram removidos os paralelos mas nunca repostos."
   }
 ]
