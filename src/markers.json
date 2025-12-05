@@ -15,13 +15,13 @@
     "lat": 40.1851,
     "lon": -8.4181,
     "name": "Ciclovia Portela #2",
-    "description": "A subida para ilha tem uma rampa com perfil muito acentuado. Também para os automobilistas que por ali acedem ao Polo 2 a visibilidade é reduzida e não há qualquer sinalização para informar da presença de velocípedes. "
+    "description": "A subida para ilha tem uma rampa com perfil muito acentuado. Também para os automobilistas que por ali acedem ao Polo 2 a visibilidade é reduzida e não há qualquer sinalização para informar da presença de velocípedes."
   },
   {
     "lat": 40.1854,
     "lon": -8.4039,
     "name": "Ciclovia Portela #3",
-    "description": "A ciclovia termina numa travessia de velocipedes M10 em que no passeio estão colocados pinos. Deveria have uma ilha que permitisse uma segura travessia da via e mais uma travessia de velocípedes M10 na Rua Princesa Cindazunda.W"
+    "description": "A ciclovia termina numa travessia de velocipedes M10 em que no passeio estão colocados pinos. Deveria have uma ilha que permitisse uma segura travessia da via e mais uma travessia de velocípedes M10 na Rua Princesa Cindazunda."
   },
 
   {
@@ -52,7 +52,7 @@
     "lat": 40.2224,
     "lon": -8.4418,
     "name": "Choupal",
-    "description": "O botão do semáforo está demasiado longe da travessia dificultando a sua utilização. "
+    "description": "O botão do semáforo está demasiado longe da travessia dificultando a sua utilização."
   },
   {
     "lat": 40.1927,
@@ -89,7 +89,7 @@
     "lat": 40.1945,
     "lon": -8.4136,
     "name": "Vale das Flores #4",
-    "description": "Pavimento degradado"
+    "description": "Pavimento degradado."
   },
   {
     "lat": 40.1935,
@@ -108,5 +108,11 @@
     "lon": -8.4198,
     "name": "Ponte Rainha Santa Isabel",
     "description": "Foi aberto um rasgo no passeio, foram removidos os paralelos mas nunca repostos."
+  },
+  {
+    "lat": 40.2176,
+    "lon": -8.4073,
+    "name": "Olivais",
+    "description": "A inclusão de uma rampa permitiria o acesso mais directo desde a Av. Dr. Dias da Silva à igreja de Sto António dos Olivais uma vez que a Rua Cap. Luís Gonzaga é sentido único."
   }
 ]
